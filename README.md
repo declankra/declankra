@@ -1,4 +1,4 @@
-# Declan Kramper
+# Hi, I'm Declan!
 
 I build things. Mostly software right now. Sometimes both. I enjoy creating.
 
