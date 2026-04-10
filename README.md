@@ -23,7 +23,8 @@ A few things I've actually ~finished for customers~.
 
 
 ## More Projects
-Older builds. Random builds. Fun builds. The progress is visible and I have a good time laughing at old stuff; I expect today's work to be equally charming in equal (or increasinly less with AI) time.
+Older builds. Random builds. Fun builds. I have a good time laughing at old stuff and expect today's work to be equally charming in equal time.
+
 - **[Interactive Personalized Digital Letter](https://interactive-letter-gift.vercel.app/)** — Built a heartfelt digital gift when the physical version was blocked as a thank you. ([repo](https://github.com/declankra/interactive-letter))
 - **[Sunlit Sips Chicago](https://v0-sunlit-sips-chi-implementation.vercel.app/)** — Find the Chicago patios and cafes that are actually in the sun right now instead of gambling on vibes alone.
 - **[Strava Personality Test](https://www.athletepersonalitytest.com/)** — Turns the way you title your Strava activities into a playful personality read, because product can be useful and ridiculous at the same time. ([repo](https://github.com/declankra/strava-personality-test))
