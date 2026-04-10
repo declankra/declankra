@@ -13,7 +13,7 @@ Work I'm actively thinking about and pushing into the world right now.
 - **[Ontology-Xtract](https://ontology-xtract.vercel.app/)** — Interviews a business owner, extracts the hidden logic in how the company works, and turns it into an AI roadmap with obvious next bets. ([repo](https://github.com/declankra/ontology-xtract))
 
 ## Things you can use
-A few things I've actually ~finished for customers~.
+A few things I've actually *finished for customers*.
 
 - **[Surgent](https://www.surgent.run)** — Objective-only running analytics for serious-hobbyists to be motivated by real progress instead of noisy .
 - **[Race Time Calculator](https://apps.apple.com/us/app/race-time-calculator/id6478423515)** — An iOS app that predicts race performance from Apple Health running data (the first of it's kind back in the day)
