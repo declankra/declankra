@@ -20,7 +20,7 @@ A few things I've actually *finished for customers*.
 - **[ChiTrack](https://www.chitrack.com/)**: the most-intuitive way to track a Chicago commute (because I'm stubborn and thought the popular app sucked)
 
 
-## More
+## More Projects 
 Older builds. Random builds. Fun builds. I have a good time laughing at old stuff and expect today's work to be equally charming in equal time.
 
 - **[Magic Record Player](https://github.com/declankra/raspberryPiRecordPlayer)**: listen to your memories (photos go on device -> corresponding song/playlist plays on speakers). Raspberry Pi + NFC scanner + Spotify API. feels like magic.
