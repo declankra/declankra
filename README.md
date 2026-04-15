@@ -4,39 +4,45 @@ I'm Declan. I build things. Mostly software right now. Sometimes both. I enjoy c
 
 If you want the broader context, writing, and visuals behind a lot of this work: [portfolio](https://declankramper.com) · [writing](https://declankramper.com/writes) · [LinkedIn](https://www.linkedin.com/in/declan-kramper)
 
+<!-- HERO:START -->
+<p align="center">
+  <img src="./assets/led-ticker.svg" alt="Declan builder signal ticker" />
+</p>
+<p align="center">
+  <a href="https://www.chitrack.com/"><code>CTA 02 MIN</code></a> · <a href="https://www.surgent.run"><code>HR 142 BPM</code></a> · <a href="https://apps.apple.com/us/app/race-time-calculator/id6478423515"><code>PACE 6:18 / MI</code></a> · <a href="https://gravelbox.xyz/case-study"><code>-$1,240 CAUGHT</code></a> · <a href="https://github.com/declankra/raspberryPiRecordPlayer"><code>NOW PLAYING</code></a>
+</p>
+<!-- HERO:END -->
+
 <!-- PROJECTS:START -->
 ## Currently building
-Work I'm actively thinking about and pushing into the world right now.
+Work I'm actively shipping, refining, or pushing into the world right now.
 
-- **[AI Engineering](https://github.com/declankra/ai-engineering)**: what I'm learning building AI-products in an AI-native way so you can too
-- **[Construction Procurement Agent](https://gravelbox.xyz/case-study)**: forward-deployed with mid-sized construction firm to automate procurement, submittals, and other document-heavy workflows where time can be saved and money can be found
-- **[Ontology-Xtract](https://ontology-xtract.vercel.app/)**: interviews a SMB using generative, just-in-time UI/reasoning/questions to identify how AI can solve the biggest pains today. the productized version of forward-deploying based off my learnings.
+- **[Ontology-Xtract](https://ontology-xtract.vercel.app/)** — Interviews a business owner, extracts the hidden logic in how the company works, and turns it into an AI roadmap with obvious next bets. ([repo](https://github.com/declankra/ontology-xtract))
+- **[AI Engineering](https://github.com/declankra/ai-engineering)** — Codifies how I build AI products so agents can install the workflow, not just read my opinions about it.
+- **[LED Control](https://github.com/declankra/led-control-public)** — Turned a locked-down consumer LED display into a local-first programmable device so it can show useful, actually-fun information from my own systems.
+- **[Home Control](https://github.com/declankra/home-control)** — Shell-driven home automation for scenes, wake routines, lights, and speakers so the boring parts of my environment just happen.
+- **[Terminal Copy Paste](https://github.com/declankra/terminalcopypaste)** — Automates a repetitive terminal formatting chore because if an AI keeps doing the same annoying thing, I should productize the fix.
+- **[xxcli](https://github.com/declankra/xxcli)** — An attempt to turn X into a focused terminal workflow so useful ideas survive and doomscrolling does not.
+- **[Construction Industry Agent](https://gravelbox.xyz/case-study)** — Partnering with a real construction business to automate submittals and other document-heavy workflows where better judgment directly creates leverage.
 
-## Things that made money
-A few things I've actually *finished for customers*.
+## Shipped
+A few things I've actually finished and put in front of users, customers, or real workflows.
 
-- **[Surgent](https://www.surgent.run)**: objective-only running analytics for serious-hobbyists to be motivated by real, hidden progress instead of composite scores.
-- **[Race Time Calculator](https://apps.apple.com/us/app/race-time-calculator/id6478423515)**: an iOS app that predicts race performance from Apple Health running data (the first of it's kind back in the day)
-- **[ChiTrack](https://www.chitrack.com/)**: the most-intuitive way to track a Chicago commute (because I'm stubborn and thought the popular app sucked)
+- **[Surgent](https://www.surgent.run)** — Objective-only running analytics for people who want to see real progress instead of getting buried in noisy fitness dashboards.
+- **[Local Jarvis](https://declankramper.com/everything-i-built)** — A privacy-first personal AI assistant that runs on my Mac, indexes my notes locally, and proves useful agent workflows do not need the cloud by default. ([repo](https://github.com/declankra/jarvis-local))
+- **[Interactive Personalized Digital Letter](https://interactive-letter-gift.vercel.app/)** — Built a heartfelt digital gift when the physical version was blocked, which is a pretty accurate summary of how I like to solve constraints. ([repo](https://github.com/declankra/interactive-letter))
+- **[ChiTrack](https://www.chitrack.com/)** — The cleanest way to track a Chicago commute so the answer is obvious before you leave the house.
+- **[Divvy Live](https://divvy-live.vercel.app/)** — A live business-case dashboard for deciding which Divvy station in Chicago deserves another rack and why. ([repo](https://github.com/declankra/divvy-live))
+- **[Minimal Site Blocker](https://chromewebstore.google.com/detail/minimal-site-blocker/nfopkomkibpdjhgfcnokaeoghbfomacf)** — A privacy-first blocker for distracting websites because the tool that helps you focus should not quietly surveil you. ([repo](https://github.com/declankra/site-blocker-extension))
+- **[Sunlit Sips Chicago](https://v0-sunlit-sips-chi-implementation.vercel.app/)** — Find the Chicago patios and cafes that are actually in the sun right now instead of gambling on vibes alone.
+- **[Strava Personality Test](https://www.athletepersonalitytest.com/)** — Turns the way you title your Strava activities into a playful personality read, because product can be useful and ridiculous at the same time. ([repo](https://github.com/declankra/strava-personality-test))
+- **[Race Time Calculator](https://apps.apple.com/us/app/race-time-calculator/id6478423515)** — An iOS app that predicts race performance from Apple Health running data so training decisions feel grounded instead of guessed.
 
+## Archive
+Older builds that are funny to revisit now. I like keeping a few of them around because progress should be visible, and I expect today's work to feel equally charming in a few years.
 
-## More Projects 
-Older builds. Random builds. Fun builds. I have a good time laughing at old stuff and expect today's work to be equally charming in equal time.
-
-- **[Magic Record Player](https://github.com/declankra/raspberryPiRecordPlayer)**: listen to your memories (photos go on device -> corresponding song/playlist plays on speakers). Raspberry Pi + NFC scanner + Spotify API. feels like magic.
-- **[Strava Personality Test](https://www.athletepersonalitytest.com/)**: what do your strava posts say about you? ([repo](https://github.com/declankra/strava-personality-test))
-- **[Divvy Live](https://divvy-live.vercel.app/)**: which divvy bike rack in chicago needs another bike? business case included ([repo](https://github.com/declankra/divvy-live))
-- **[Interactive Personalized Digital Letter](https://interactive-letter-gift.vercel.app/)**: a heartfelt digital gift when HR wouldn't let me send the physical version as a thank you to company friends + leadership
-- **[Sunlit Sips Chicago](https://v0-sunlit-sips-chi-implementation.vercel.app/)**: find the Chicago patios and cafes that are in the sun right now (rate limited to lincoln park)
-- **[xxcli](https://github.com/declankra/xxcli)**: X but intentional + actionable ideas based off your current project (github + obsidian) work
-- **[psPRD Preview](https://psprd-preview.vercel.app)**: the proposed missing piece in my firm's internal AI stack - a context-aware (preojct, company, PM thinking) product management assistant ([repo](https://github.com/declankra/psprd-preview))
-- **[ScreenCam Overlay Recorder](https://github.com/declankra/ScreenCamOverlayRecorder)**: a lightweight macOS screen recorder with microphone audio and a floating camera preview for quick walkthroughs (ended up buying one)
-- **[Minimal Site Blocker](https://chromewebstore.google.com/detail/minimal-site-blocker/nfopkomkibpdjhgfcnokaeoghbfomacf)**: a website blocker that i use to block sites on chrome ([repo](https://github.com/declankra/site-blocker-extension))
-- **[LED Control](https://github.com/declankra/led-control-public)**: hacked a locked-down consumer LED display into a local-first programmable device so it can say hi to people in the background of video calls (and for my agent to write messages, or display train times in the morning)
-- **[Home Control](https://github.com/declankra/home-control)**: custom CLI so my agent can control my home/environment (clicking through all those apps stunk)
-- **[Terminal Copy Paste](https://github.com/declankra/terminalcopypaste)**: for when you keep copying from the terminal
-- **[Local Jarvis](https://declankramper.com/everything-i-built)**: GPT-OSS came out and I was excited to have a local jarvis (sad, too slow/dumb) ([repo](https://github.com/declankra/jarvis-local))
-- **[Meet or Not](https://meet-or-not.web.app/)**: the worst meeting that never was (my first product with AI :)) ([repo](https://github.com/declankra/meet-or-not-app))
-- **[Validate Idea](https://github.com/declankra/landing-page)**: a product-led langing page to validate your idea by analyzing signups using methods i learned from lenny's podcast (spent too much time on a nothing-burger, but scar tissue is good)
-- **[Grade Final Boss](https://grade-final-boss-3lxl.vercel.app/)**: fun grade calculator i wish i had during finals (not painful enough, and also too much, so again, more tissue)
+- **[Meet or Not](https://meet-or-not.web.app/)** — An early AI product that tried to stop bad meetings before they started. Still a real problem, still a funny first swing. ([repo](https://github.com/declankra/meet-or-not-app))
+- **[Magic Record Player](https://github.com/declankra/raspberryPiRecordPlayer)** — A Raspberry Pi and NFC-powered record player that turns physical objects into Spotify playback, which still feels like a magic trick.
+- **[Validate Idea](https://github.com/declankra/landing-page)** — A landing-page starter built around testing whether anyone cares before you disappear into months of building.
+- **[Grade Final Boss](https://grade-final-boss-3lxl.vercel.app/)** — A grade calculator with more personality than it had any right to have, which is exactly why I still like it. ([repo](https://github.com/declankra/grade-final-boss))
 <!-- PROJECTS:END -->
