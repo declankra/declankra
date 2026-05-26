@@ -12,7 +12,7 @@ Work I'm actively thinking about and pushing into the world right now.
 - **[Construction Procurement Agent](https://gravelbox.xyz/case-study)**: forward-deployed with mid-sized construction firm to automate procurement, submittals, and other document-heavy workflows where time can be saved and money can be found
 - **[Ontology-Xtract](https://ontology-xtract.vercel.app/)**: interviews a SMB using generative, just-in-time UI/reasoning/questions to identify how AI can solve the biggest pains today. the productized version of forward-deploying based off my learnings.
 
-## Things that made money
+## Products that added to the GDP
 A few things I've actually *finished for customers*.
 
 - **[Surgent](https://www.surgent.run)**: objective-only running analytics for serious-hobbyists to be motivated by real, hidden progress instead of composite scores.
