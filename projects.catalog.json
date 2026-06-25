@@ -186,6 +186,17 @@
       "bucketRecommendation": "archive"
     },
     {
+      "id": "keep-computer-on-in-your-backpack",
+      "name": "Keep Computer On In Your Backpack",
+      "status": "archive",
+      "workspacePath": "/Users/macbook/Code/backpack-awake-menu",
+      "primaryUrl": "https://github.com/declankra/keep-computer-on-in-your-backpack",
+      "repoUrl": "https://github.com/declankra/keep-computer-on-in-your-backpack",
+      "oneLiner": "A tiny macOS menu bar app that keeps your laptop reachable while closed so you can use Codex from your phone while commuting.",
+      "includeInReadme": true,
+      "bucketRecommendation": "keep-root"
+    },
+    {
       "id": "raspberry-pi-record-player",
       "name": "Magic Record Player",
       "status": "archive",

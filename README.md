@@ -23,6 +23,7 @@ A few things I've actually *finished for customers*.
 ## More Projects 
 Older builds. Random builds. Fun builds. I have a good time laughing at old stuff and expect today's work to be equally charming in equal time.
 
+- **[Keep Computer On In Your Backpack](https://github.com/declankra/keep-computer-on-in-your-backpack)**: a tiny macOS menu bar app that keeps your laptop reachable while closed so you can use Codex from your phone while commuting
 - **[Magic Record Player](https://github.com/declankra/raspberryPiRecordPlayer)**: listen to your memories (photos go on device -> corresponding song/playlist plays on speakers). Raspberry Pi + NFC scanner + Spotify API. feels like magic.
 - **[Strava Personality Test](https://www.athletepersonalitytest.com/)**: what do your strava posts say about you? ([repo](https://github.com/declankra/strava-personality-test))
 - **[Divvy Live](https://divvy-live.vercel.app/)**: which divvy bike rack in chicago needs another bike? business case included ([repo](https://github.com/declankra/divvy-live))
