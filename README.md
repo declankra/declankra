@@ -13,7 +13,7 @@ Work I'm actively thinking about and pushing into the world right now.
 - **[Ontology-Xtract](https://ontology-xtract.vercel.app/)**: interviews a SMB using generative, just-in-time UI/reasoning/questions to identify how AI can solve the biggest pains today. the productized version of forward-deploying based off my learnings.
 
 ## Products that added to the GDP
-A few things I've actually *finished for customers*.
+A few things I've actually *finished for customers who paid*.
 
 - **[Surgent](https://www.surgent.run)**: objective-only running analytics for serious-hobbyists to be motivated by real, hidden progress instead of composite scores.
 - **[Race Time Calculator](https://apps.apple.com/us/app/race-time-calculator/id6478423515)**: an iOS app that predicts race performance from Apple Health running data (the first of it's kind back in the day)
@@ -21,7 +21,7 @@ A few things I've actually *finished for customers*.
 
 
 ## More Projects 
-Older builds. Random builds. Fun builds. I have a good time laughing at old stuff and expect today's work to be equally charming in equal time.
+Older builds. Random builds. Fun builds. I have a good time laughing at old stuff and expect today's work to be equally charming in equal (but increasingly less) time.
 
 - **[Magic Record Player](https://github.com/declankra/raspberryPiRecordPlayer)**: listen to your memories (photos go on device -> corresponding song/playlist plays on speakers). Raspberry Pi + NFC scanner + Spotify API. feels like magic.
 - **[Strava Personality Test](https://www.athletepersonalitytest.com/)**: what do your strava posts say about you? ([repo](https://github.com/declankra/strava-personality-test))
