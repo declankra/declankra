@@ -8,7 +8,7 @@ If you want the broader context, writing, and visuals behind a lot of this work:
 ## Currently building
 Work I'm actively thinking about and pushing into the world right now.
 
-- **[AI Engineering](https://github.com/declankra/ai-engineering)**: what I'm learning building AI-products in an AI-native way so you can too
+- **[Applied AI Engineering](https://www.dkbuilds.co)**: how I build AI products in an AI-native way - the working system stays private, learnings get shared publicly at dkBuilds
 - **[Construction Procurement Agent](https://gravelbox.xyz/case-study)**: forward-deployed with mid-sized construction firm to automate procurement, submittals, and other document-heavy workflows where time can be saved and money can be found
 - **[Ontology-Xtract](https://ontology-xtract.vercel.app/)**: interviews a SMB using generative, just-in-time UI/reasoning/questions to identify how AI can solve the biggest pains today. the productized version of forward-deploying based off my learnings.
 

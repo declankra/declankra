@@ -14,13 +14,13 @@
       "bucketRecommendation": "keep-root"
     },
     {
-      "id": "ai-engineering",
-      "name": "AI Engineering",
+      "id": "applied-ai-engineering",
+      "name": "Applied AI Engineering",
       "status": "current",
-      "workspacePath": "/Users/macbook/Code/ai-engineering",
-      "primaryUrl": "https://github.com/declankra/ai-engineering",
-      "repoUrl": "https://github.com/declankra/ai-engineering",
-      "oneLiner": "Codifies how I build AI products so agents can install the workflow, not just read my opinions about it.",
+      "workspacePath": "/Users/macbook/Code/applied-ai-engineering",
+      "primaryUrl": "https://www.dkbuilds.co",
+      "repoUrl": null,
+      "oneLiner": "how I build AI products in an AI-native way - the working system stays private, learnings get shared publicly at dkBuilds",
       "includeInReadme": true,
       "bucketRecommendation": "keep-root"
     },
