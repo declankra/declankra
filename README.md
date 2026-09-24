@@ -23,6 +23,7 @@ A few things I've actually *finished for customers who paid*.
 ## More Projects 
 Older builds. Random builds. Fun builds. I have a good time laughing at old stuff and expect today's work to be equally charming in equal (but increasingly less) time.
 
+- **[Your Own Font](https://your-own-font.vercel.app/)**: draw two sentences, get a font of your handwriting (trained a tiny model just so each letter fills in once it knows your pen strokes are really an 'r') ([repo](https://github.com/declankra/your-own-font))
 - **[Japan Voice](https://github.com/declankra/japan-voice-app)**: a way to communicate face to face without the language barrier using gpt-realtime-2
 - **[Magic Record Player](https://github.com/declankra/raspberryPiRecordPlayer)**: listen to your memories (photos go on device -> corresponding song/playlist plays on speakers). Raspberry Pi + NFC scanner + Spotify API. feels like magic.
 - **[Strava Personality Test](https://strava-personality-test.vercel.app/)**: what do your strava posts say about you? ([repo](https://github.com/declankra/strava-personality-test))
